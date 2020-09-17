@@ -1,6 +1,8 @@
 # EYBadges
 EY Badge Recommendation System and Badge Impact Metrics
 
+![Hackathon Page](https://github.com/SINDHUSITA/EYBadges/blob/master/Hackathon.PNG)
+
 ## Problem Statement
 
 EY GDS teams offer its professionals a learning intervention called EY Badges which helps build competency across varying domains. Currently, there are over 100 badges on offer and the challenge is to pick the correct one. 
